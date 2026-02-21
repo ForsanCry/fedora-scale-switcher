@@ -103,7 +103,7 @@ System Requirements:
 
     Should work on: Any GNOME desktop running a Wayland session (Ubuntu, Arch, openSUSE, etc.)
 
-    Requirements: GNOME 40+, Wayland
+    Requirements: GNOME 40+, Wayland, Python 3
 
 ## Uninstallation
 

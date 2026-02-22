@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ================================================
-# Fedora GNOME - Ekran Scale Toggle
+# Fedora GNOME - Screen Scale Toggle
 # Usage: son -> %125 | soff -> %100
 # ================================================
 
